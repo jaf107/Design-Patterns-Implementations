@@ -1,7 +1,7 @@
-package com.company.Abstract.Games;
+package practice.Abstract.Games;
 
-import com.company.Abstract.AbstractFactory;
-import com.company.Abstract.WeaponFactory.Weapon;
+import practice.Abstract.AbstractFactory;
+import practice.Abstract.WeaponFactory.Weapon;
 
 public class GameFactory extends AbstractFactory {
 

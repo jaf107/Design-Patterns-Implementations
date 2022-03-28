@@ -1,7 +1,7 @@
-package com.company.Abstract.WeaponFactory;
+package practice.Abstract.WeaponFactory;
 
-import com.company.Abstract.AbstractFactory;
-import com.company.Abstract.Games.Game;
+import practice.Abstract.AbstractFactory;
+import practice.Abstract.Games.Game;
 
 public class WeaponFactory extends AbstractFactory {
     @Override

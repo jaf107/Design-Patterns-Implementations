@@ -1,4 +1,4 @@
-package com.company.strategy;
+package practice.strategy;
 
 public class Run implements Strategy{
     @Override

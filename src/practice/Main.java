@@ -1,17 +1,16 @@
-package com.company;
+package practice;
 
-import com.company.Abstract.AbstractFactory;
-import com.company.Abstract.FactoryProducer;
-import com.company.singleton.Singleton;
-import com.company.strategy.Jump;
-import com.company.strategy.Run;
+import practice.Abstract.AbstractFactory;
+import practice.Abstract.FactoryProducer;
+import practice.singleton.Singleton;
+import practice.strategy.Jump;
+import practice.strategy.Run;
 
 public class Main {
 
     public static void main(String[] args) {
 	// write your code here
 
-    /*
         AbstractFactory gameFactory = FactoryProducer.getFactory("Game");
 
         gameFactory.getGame("Valorant").play();
@@ -21,9 +20,9 @@ public class Main {
 
         weaponFactory.getWeapon("Vandal").shoot();
         weaponFactory.getWeapon("Phantom").shoot();
-*/
-//        new Jump().execute();
-//        new Run().execute();
+
+        new Jump().execute();
+        new Run().execute();
 
         Singleton s = Singleton.getInstance();
         s.show();

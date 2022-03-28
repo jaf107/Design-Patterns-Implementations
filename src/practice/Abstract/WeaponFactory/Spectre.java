@@ -1,4 +1,4 @@
-package com.company.Abstract.WeaponFactory;
+package practice.Abstract.WeaponFactory;
 
 public class Spectre implements Weapon {
     @Override

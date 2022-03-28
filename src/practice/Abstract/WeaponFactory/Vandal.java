@@ -1,4 +1,4 @@
-package com.company.Abstract.WeaponFactory;
+package practice.Abstract.WeaponFactory;
 
 public class Vandal implements Weapon{
     @Override

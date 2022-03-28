@@ -1,7 +1,7 @@
 package practice.Abstract;
 
-import com.company.Abstract.Games.GameFactory;
-import com.company.Abstract.WeaponFactory.WeaponFactory;
+import practice.Abstract.Games.GameFactory;
+import practice.Abstract.WeaponFactory.WeaponFactory;
 
 public class FactoryProducer {
     public static AbstractFactory getFactory(String factory){

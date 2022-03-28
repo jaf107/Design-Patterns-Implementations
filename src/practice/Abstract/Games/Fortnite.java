@@ -1,4 +1,4 @@
-package com.company.Abstract.Games;
+package practice.Abstract.Games;
 
 public class Fortnite implements Game{
     @Override
