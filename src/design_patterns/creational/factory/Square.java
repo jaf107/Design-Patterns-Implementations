@@ -1,4 +1,4 @@
-package creational.factory;
+package design_patterns.creational.factory;
 
 public class Square implements Shape{
     @Override
