@@ -1,7 +1,7 @@
-package creational.prototype;
+package design_patterns.creational.prototype;
 
-import SE_506.design_patterns.creational.prototype.shape.Shape;
-import SE_506.design_patterns.creational.prototype.shape.ShapeCache;
+import design_patterns.creational.prototype.shape.Shape;
+import design_patterns.creational.prototype.shape.ShapeCache;
 
 public class Driver {
     public static void main(String[] args) {

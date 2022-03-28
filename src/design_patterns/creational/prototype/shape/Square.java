@@ -1,4 +1,4 @@
-package creational.prototype.shape;
+package design_patterns.creational.prototype.shape;
 
 public class Square extends Shape{
     public Square() {
