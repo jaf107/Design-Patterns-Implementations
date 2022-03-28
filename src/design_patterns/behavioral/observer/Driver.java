@@ -1,4 +1,4 @@
-package behavioral.observer;
+package design_patterns.behavioral.observer;
 
 public class Driver {
     public static void main(String[] args) {
