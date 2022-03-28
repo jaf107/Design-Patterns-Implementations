@@ -1,4 +1,4 @@
-package practice.Abstract.WeaponFactory;
+package practice.Abstract.Weapon;
 
 import practice.Abstract.AbstractFactory;
 import practice.Abstract.Games.Game;

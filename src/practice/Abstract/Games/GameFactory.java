@@ -1,7 +1,7 @@
 package practice.Abstract.Games;
 
 import practice.Abstract.AbstractFactory;
-import practice.Abstract.WeaponFactory.Weapon;
+import practice.Abstract.Weapon.Weapon;
 
 public class GameFactory extends AbstractFactory {
 

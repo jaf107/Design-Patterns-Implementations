@@ -1,4 +1,4 @@
-package practice.Abstract.WeaponFactory;
+package practice.Abstract.Weapon;
 
 public interface Weapon {
     void shoot();
