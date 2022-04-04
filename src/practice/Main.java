@@ -14,14 +14,14 @@ public class Main {
 
         AbstractFactory gameFactory = FactoryProducer.getFactory("Game");
 
-        gameFactory.getGame("Valorant").play();
-        gameFactory.getGame("Fortnite").play();
-//        gameFactory.getWeapon("Vandal").shoot();
-
-        AbstractFactory weaponFactory = FactoryProducer.getFactory("Weapon");
-
-        weaponFactory.getWeapon("Vandal").shoot();
-        weaponFactory.getWeapon("Phantom").shoot();
+//        gameFactory.getGame("Valorant").play();
+//        gameFactory.getGame("Fortnite").play();
+////        gameFactory.getWeapon("Vandal").shoot();
+//
+//        AbstractFactory weaponFactory = FactoryProducer.getFactory("Weapon");
+//
+//        weaponFactory.getWeapon("Vandal").shoot();
+//        weaponFactory.getWeapon("Phantom").shoot();
 
 
         Movement m1 = new Movement(new Jump());

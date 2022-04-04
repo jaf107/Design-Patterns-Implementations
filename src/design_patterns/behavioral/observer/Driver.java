@@ -1,5 +1,9 @@
 package design_patterns.behavioral.observer;
 
+import design_patterns.behavioral.observer.observers.BinaryObserver;
+import design_patterns.behavioral.observer.observers.HexaObserver;
+import design_patterns.behavioral.observer.observers.OctalObserver;
+
 public class Driver {
     public static void main(String[] args) {
         Subject subject = new Subject();

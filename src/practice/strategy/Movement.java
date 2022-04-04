@@ -1,7 +1,7 @@
 package practice.strategy;
 
 public class Movement {
-    Strategy movement;
+    private Strategy movement;
 
     public Movement(Strategy movement) {
         this.movement = movement;

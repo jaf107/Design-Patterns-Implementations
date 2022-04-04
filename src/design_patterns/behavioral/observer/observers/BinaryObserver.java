@@ -1,4 +1,6 @@
-package design_patterns.behavioral.observer;
+package design_patterns.behavioral.observer.observers;
+
+import design_patterns.behavioral.observer.Subject;
 
 public class BinaryObserver extends Observer{
     public BinaryObserver(Subject subject){
