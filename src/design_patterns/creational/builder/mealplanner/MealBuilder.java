@@ -1,5 +1,10 @@
 package design_patterns.creational.builder.mealplanner;
 
+import design_patterns.creational.builder.mealplanner.bottle.Coke;
+import design_patterns.creational.builder.mealplanner.bottle.Pepsi;
+import design_patterns.creational.builder.mealplanner.burger.ChickenBurger;
+import design_patterns.creational.builder.mealplanner.burger.VegBurger;
+
 public class MealBuilder {
     public Meal prepareVegMeal(){
         Meal meal = new Meal();

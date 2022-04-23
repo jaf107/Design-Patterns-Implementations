@@ -1,4 +1,4 @@
-package design_patterns.creational.builder.mealplanner;
+package design_patterns.creational.builder.mealplanner.burger;
 
 public class VegBurger extends Burger{
     @Override

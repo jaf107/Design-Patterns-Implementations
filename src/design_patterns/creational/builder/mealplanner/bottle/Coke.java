@@ -1,4 +1,4 @@
-package design_patterns.creational.builder.mealplanner;
+package design_patterns.creational.builder.mealplanner.bottle;
 
 public class Coke extends ColdDrink{
     @Override
