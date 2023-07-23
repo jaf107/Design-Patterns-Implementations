@@ -25,7 +25,7 @@ To get started with this repository and explore the design patterns, follow thes
 1. **Clone the Repository**: Start by cloning this repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/jaf107/design-patterns-implementation.git
+   git clone https://github.com/jaf107/design-patterns-implementations.git
    ```
 
 2. **Navigate to a Design Pattern**: Choose a design pattern from either the "behavioral," "creational," or "structural" folder, and navigate to its directory.
