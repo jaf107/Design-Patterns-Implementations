@@ -48,5 +48,4 @@ I would like to express my gratitude to all the developers and authors of the de
 
 Happy coding!
 
-Abu Jafar Saifullah
-bsse1109@iit.du.ac.bd
+Abu Jafar Saifullah - bsse1109@iit.du.ac.bd
